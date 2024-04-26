@@ -1,21 +1,16 @@
 # Website Traffic Generator
 
-MAXXED THREADS + RANDOM AGENTS ( 100k aprox in FEW Minutes)
+Dynamically optimised use of threads and included a list of residential proxies, stored as a secret URL.
 
-<img src="https://profile-counter.glitch.me/RojanGamingYT/count.svg" />
+Output can reach 100k in a matter of minutes, depending on your configuration.
 
-## 🥅 ・Goals
-```
-・ 20 stars for Traffic with proxy ✅
+## Additional improvements:
 
-・ 50 stars for Advanced gen with UI ❌
+* Minimum and maximum time spent on each page - This simulates a more realistic browsing behavior by adding a delay between requests.
+* Number of requests - Allows the user to set a specific number of requests to be made.
+* Avoid repetition - An option for the user to decide whether each page view should be unique, preventing the same page from being loaded repeatedly within the session.
 
-・ 100 stars for Better and Managed Generator ❌
-
-・ 1000 stars for 1M+ Traffic in 10 minutes ❌
-```
-
-## 📄・License
+## License
 
 This project is licensed under the GPL General Public License v3.0 License - see the [LICENSE.md](./LICENSE) file for details
 ```js
@@ -24,7 +19,7 @@ This project is licensed under the GPL General Public License v3.0 License - see
   ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo
 ```
 
-## 📄・Important
+## Important
 ```
 ・This is for Educational purpose only all your consequences caused by your actions is your responsibility 
 ・Selling this Free gen is forbidden 
